@@ -16,6 +16,7 @@ class ID
 };
 main()
 {
+	//ALL THE DOCUMENTS WILL BE AUTOMATICALLY CREATED
 	//lower case for email id
 	//UPPER CASE FOR PASSWORD
 	
